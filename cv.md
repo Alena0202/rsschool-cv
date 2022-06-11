@@ -11,4 +11,8 @@ I am 42 years old. In 2009, she graduated and worked in the banking sector until
 * Belarussian - Native
 * Russian - Native
 * English - A1
-* polish - A2 
+* polish - A2
+## Skills and Proficiency: 
+* HTML, CSS
+* Git, Github
+* VS Code
